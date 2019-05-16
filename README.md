@@ -33,9 +33,12 @@ Aqui conseguimos visualizar as entidades do banco e ver as informações que for
 # TECNOLOGIAS UTILIZADAS
 
 Banco de Dados H2 <br/>
+SpringBoot
 Spring Data,<br/>
 Spring Web,<br/>
 Spring DevTools<br/>
 JQuery (Ajax)<br/>
 HTML( JSP)<br/>
+Swagger
+
 
