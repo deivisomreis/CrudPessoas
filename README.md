@@ -1,3 +1,16 @@
+# TECNOLOGIAS UTILIZADAS
+
+Banco de Dados H2 <br/>
+SpringBoot
+Spring Data,<br/>
+Spring Web,<br/>
+Spring DevTools<br/>
+JQuery (Ajax)<br/>
+HTML( JSP)<br/>
+Lombok - O Lombok é uma biblioteca Java focada em produtividade e redução de código boilerplate (verbosidade)
+Swagger
+
+
 # CADASTRO DE PESSOAS 
 
 <br/><br/>
@@ -29,16 +42,3 @@ Aqui conseguimos visualizar as entidades do banco e ver as informações que for
 <br/><br/>
 
 5 - Faço uso de cache na API que faz consulta ao serviço do correios para ser mais rapido, no caso de consultas com o mesmo valor de requisição (cep). Sendo que o cache devolve o que ja esta em memória.
-
-# TECNOLOGIAS UTILIZADAS
-
-Banco de Dados H2 <br/>
-SpringBoot
-Spring Data,<br/>
-Spring Web,<br/>
-Spring DevTools<br/>
-JQuery (Ajax)<br/>
-HTML( JSP)<br/>
-Lombok - O Lombok é uma biblioteca Java focada em produtividade e redução de código boilerplate (verbosidade)
-Swagger
-
