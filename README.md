@@ -38,4 +38,5 @@ Spring Web,<br/>
 Spring DevTools<br/>
 JQuery (Ajax)<br/>
 HTML( JSP)<br/>
+Lombok - O Lombok é uma biblioteca Java focada em produtividade e redução de código boilerplate (verbosidade)
 

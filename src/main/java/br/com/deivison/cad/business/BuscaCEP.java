@@ -1,5 +1,7 @@
 package br.com.deivison.cad.business;
 
+import lombok.extern.slf4j.Slf4j;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,9 +11,10 @@ import org.springframework.web.client.RestTemplate;
 import br.com.deivison.cad.model.CEP;
 
 @Service
+@Slf4j
 public class BuscaCEP {
 
-	private Logger log = LoggerFactory.getLogger(BuscaCEP.class);
+//	private Logger log = LoggerFactory.getLogger(BuscaCEP.class);
 
 	@Autowired
 	private RestTemplate restTemplate;
